@@ -3,7 +3,7 @@
 🎯I work to craft intuitive solutions that yield substantial outcomes.
 
 💼 Notable projects:
-- Various image classification neural networks 
+- Various image classification models
 - ML-driven predictive analytics and data interpretation tools
 - Automated academic schedule allocation and optimization system
 - IoT-based energy meter system with remote-sensing facility
