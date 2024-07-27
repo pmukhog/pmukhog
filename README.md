@@ -9,6 +9,7 @@
 - IoT-based energy meter system with remote-sensing facility
 - Mental Health Assessment App using Flutter
 - Patient Management App using Next.js
+- DeepFake generation/detection system using GAN
 
 🔬 Current pursuits:
 - NLP
